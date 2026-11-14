@@ -1,0 +1,8 @@
+{
+  "name": "ryzer-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bedrock-protocol": "^4.12.0"
+  }
+}
